@@ -11,11 +11,11 @@ public class Cerveja extends Bebida{
 
     @Override
     protected void prepararIngredientes() {
-        System.out.println("Preparando ingrediente para o cerveja...");
+        System.out.println("Preparando ingrediente para o cerveja..");
     }
 
     @Override
     protected void fazerBebida() {
-        System.out.println("Fazendo o cerveja...");
+        System.out.println("Fazendo o cerveja..");
     }
 }

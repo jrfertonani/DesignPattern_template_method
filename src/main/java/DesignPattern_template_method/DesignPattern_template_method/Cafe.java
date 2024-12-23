@@ -11,11 +11,11 @@ public class Cafe extends Bebida{
 
     @Override
     protected void prepararIngredientes() {
-        System.out.println("Preparando ingrediente para o cafe...");
+        System.out.println("Preparando ingrediente para o cafe..");
     }
 
     @Override
     protected void fazerBebida() {
-        System.out.println("Fazendo o cafe...");
+        System.out.println("Fazendo o cafe..");
     }
 }
